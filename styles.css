@@ -4,7 +4,7 @@
 }
 body{
     background-color: #0e19f0;
-    color: red;
+    color: rgb(0, 255, 13);
 }
 body {
     font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: rgba(197, 21, 21, 0.6); /* Fundo com transparência */
+    background-color: rgba(101, 15, 240, 0.6); /* Fundo com transparência */
     color: #eb2828;
     text-align: center;
     padding: 10px;
