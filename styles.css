@@ -1,5 +1,5 @@
 .topo {
-    background-color: #02455a;
+    background-color: #11abda;
     color: white;
 }
 body{
@@ -17,7 +17,7 @@ body {
 }
 
 header {
-    background-color: rgba(41, 3, 3, 0.6); /* Fundo com transparência */
+    background-color: rgba(197, 21, 21, 0.6); /* Fundo com transparência */
     color: #eb2828;
     text-align: center;
     padding: 10px;
