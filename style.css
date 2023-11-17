@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center; /*alinha no centro*/
-    padding: 24px 0;
+    padding: 24px 0; /*alinhar a imagem na altura com o espaço interno */
     
     .cabecalho-lista-item {
             display: inline-block;
