@@ -7,8 +7,8 @@
     padding: 24px 0; /*alinhar a imagem na altura com o espaço interno */
     
     .cabecalho-lista-item {
-            display: inline-block;
-            margin: 0 16px;
+            display: inline-block;  /*coloca na mesma linha*/
+            margin: 0 30px;
             font-size: 24px;
     }
     }
